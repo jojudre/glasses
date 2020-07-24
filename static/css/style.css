@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    position: absolute;
+    left: 0px;
+    top:0px;
+}
+
+video {
+    /*display:none;*/
+    position: absolute;
+    left: 0px;
+    top:0px;
+}
